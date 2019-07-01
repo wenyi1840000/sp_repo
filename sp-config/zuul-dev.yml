@@ -5,7 +5,11 @@ spring:
     host: 192.168.179.133
     port: 5672
     username: admin
+<<<<<<< HEAD
     password: admin    
+=======
+    password: admin   
+>>>>>>> branch 'master' of https://github.com/wenyi1840000/sp_repo.git
     
 server:
   port: 3001
